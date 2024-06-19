@@ -1,0 +1,7 @@
+商家销量 /api/seller
+预算开售 /api/budget
+库存信息 /api/stock
+销量趋势 /api/trend
+销量排行 /api/rank
+商家信息 /api/map
+热销商品 /api/hotproduct
