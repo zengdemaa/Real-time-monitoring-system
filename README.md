@@ -1,11 +1,22 @@
+# webpack
+
+## 项目依赖下载
+```
+npm install
+```
+## 启动webpack服务端
+```
+node app.js
+```
+
 # vision
 
-## Project setup
+## 项目依赖下载
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 npm run serve
 ```
